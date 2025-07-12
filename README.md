@@ -14,7 +14,7 @@
 
 ## This Platform is yet to release. ETA: (Unknown), but estimated late July
 <br>
-> [!IMPORTANT]  
+> ![IMPORTANT]  
 > THIS PLATFORM DOESN'T HOST ANY CONTENT SERVED TO CONSUMERS, IT MERELY SCRAPES AND SERVES CONTENT FROM 3RD PARTY SOURCES. See [Extension Ssources](https://github.com/Animex-App/Extension-Servers)
 <br>
 ---
