@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="120px" src="./assets/icon.png"/>
+    <img width="120px" src="https://raw.githubusercontent.com/Animex-App/Animex/refs/heads/main/assets/icon.png"/>
     <h1 align="center">Animex</h1>
 </p>
 
