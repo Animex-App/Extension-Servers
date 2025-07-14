@@ -68,5 +68,7 @@ The Animex platform requires a self-hosted extension server. You can run this on
 *   For any copyright concerns, please direct your inquiries to the respective content sources.
 
 **License**
+---
 <a href="https://github.com/Animex-App/Animex/blob/main/LICENSE"><img alt="License" src="https://img.shields.io/github/license/Animex-App/Animex?style=for-the-badge&labelColor=1a1d24"></a>
+<br>
 This project is licensed under the [GPL-3.0 License](https://www.gnu.org/licenses/gpl-3.0.html#license-text).
