@@ -48,10 +48,10 @@ The Animex platform requires a self-hosted extension server. You can run this on
 
 ### **Currently Available Modules**
 
-| Source | Language | Subtitles | Dubbing |
-| :--- | :--- | :--- | :--- |
-| 🇺🇸 9Anime (via GogoAnime) | English | ✅ | ✅ |
-| *More sources coming soon...* | | | |
+| Source | Language | Subtitles | Dubbing | Type |
+| :--- | :--- | :--- | :--- | :--- |
+| 🇺🇸 9Anime (via GogoAnime) | English | ✅ | ✅ | Streaming |
+| *More sources coming soon...* | | | | |
 
 > **Warning:** All data, including streaming content, is obtained by scraping external sources and may be unreliable or subject to change.
 
